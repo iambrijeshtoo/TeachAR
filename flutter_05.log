@@ -1,0 +1,51 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter --no-color run --machine --track-widget-creation --device-id=ce021822e3afe0b90b --start-paused --dart-define=flutter.inspector.structuredErrors=true --devtools-server-address=http://127.0.0.1:9100 lib\main.dart
+
+## exception
+
+RPCError: getVM: (112) Service has disappeared
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 2.0.5, on Microsoft Windows [Version 10.0.18363.1440], locale en-US)
+    • Flutter version 2.0.5 at C:\src\flutter\flutter
+    • Framework revision adc687823a (10 months ago), 2021-04-16 09:40:20 -0700
+    • Engine revision b09f014e96
+    • Dart version 2.12.3
+
+[!] Android toolchain - develop for Android devices (Android SDK version 30.0.3)
+    • Android SDK at C:\Users\hitfa\AppData\Local\Android\sdk
+    • Platform android-31, build-tools 30.0.3
+    • Java binary at: C:\Program Files\Common Files\Oracle\Java\javapath\java.exe
+    • Java version Java(TM) SE Runtime Environment (build 15.0.1+9-18)
+    ✗ Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/docs/get-started/install/windows#android-setup for more details.
+
+[✓] Chrome - develop for the web
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[!] Android Studio (not installed)
+    • Android Studio not found; download from https://developer.android.com/studio/index.html
+      (or visit https://flutter.dev/docs/get-started/install/windows#android-setup for detailed instructions).
+
+[✓] VS Code (version 1.64.1)
+    • VS Code at C:\Users\hitfa\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.22.0
+
+[✓] Connected device (3 available)
+    • SM G950F (mobile) • ce021822e3afe0b90b • android-arm64  • Android 9 (API 28)
+    • Chrome (web)      • chrome             • web-javascript • Google Chrome 98.0.4758.82
+    • Edge (web)        • edge               • web-javascript • Microsoft Edge 96.0.1054.29
+    ! Device ce021822e3afe0b90b is offline.
+
+! Doctor found issues in 2 categories.
+```
