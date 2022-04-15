@@ -11,6 +11,9 @@ User should be able to grasp the anatomy of the human body with ease utilizing a
 <img src="screenshot/1_WelcomeScreen.png" width=150><img src="screenshot/2_Menu.png" width=150><img src="screenshot/3_Info.png" width=150><img src="screenshot/4_ViewIn3D.png" width=150><img src="screenshot/5_ViewInAR.png" width=150>
 
 # Video
+<video>
+    <source src="TeachARVideo.mp4" type="video/mp4">
+</video>
 
 
 ## Features
