@@ -15,7 +15,7 @@ User should be able to grasp the anatomy of the human body with ease utilizing a
 
 
 
-## Used Teach
+## Technology Used
 <!-- Add the used technology names of project. -->
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
