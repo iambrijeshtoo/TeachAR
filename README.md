@@ -1,17 +1,25 @@
-# project
+# TeachAR
+- The purpose of this project is to offer a platform of Augmented Reality to help students understand a difficult topic.
+- A suggested application for teaching and studying astronomy, the human body anatomy, and volcanology were developed in this project. 
+- The technology is anticipated to increase their degree of comprehension about learning by providing them with both easy operability and immersive sense.
+- Using this method, students may improve their understanding of planets, planet types, moons, size, distance, orbit, rings, rotation, and other topics. 
+- Learners who use Augmented Reality (AR) may observe the solar orbit and planets as if they were physically there at the site. 
+User should be able to grasp the anatomy of the human body with ease utilizing a 3D picture representation. 
 
-A new Flutter project.
 
+# Screenshots
+<img src="screenshot/1_WelcomeScreen.png>
 
-## Getting Started
+# Video
 
-This project is a starting point for a Flutter application.
+## Features
+<!-- Add the features of project. -->
 
-A few resources to get you started if this is your first Flutter project:
+## Used Teach
+<!-- Add the used technology names of project. -->
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## How to run the project in development mode
+- Clone or download repository as a zip file.
+- Open project in Android Studio.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future update
