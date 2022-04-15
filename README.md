@@ -8,7 +8,7 @@ User should be able to grasp the anatomy of the human body with ease utilizing a
 
 
 # Screenshots
-<img src="screenshot/1_WelcomeScreen.png>
+<img src="screenshot/1_WelcomeScreen.png width="200">
 
 # Video
 
